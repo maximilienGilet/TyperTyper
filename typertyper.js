@@ -1,7 +1,6 @@
 // Get all typers !
 let typers = document.querySelectorAll('.typer');
 typers.forEach(function (typer) {
-    console.log(typer);
     // get words
     let words = typer.dataset.typerWords.split(';');
     // word counter
