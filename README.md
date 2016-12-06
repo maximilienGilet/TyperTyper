@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![TyperTyper](TyperTyper.gif)
+<img src="TyperTyper.gif">
 
 </p>
 
