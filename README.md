@@ -85,7 +85,7 @@ Below the list of options :
    ​
 4. data-typer-erase (Optionnal)
 
-   Set it to false in order to delete the whole world instead of letters
+   Set it to false in order to delete the whole word instead of letters
 
    ​
    
