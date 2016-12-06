@@ -1,5 +1,12 @@
 # TyperTyper
 
+<p align="center">
+
+![TyperTyper](TyperTyper.gif)
+
+</p>
+
+
 
 <p align="center">
 <img src="http://forthebadge.com/images/badges/built-with-love.svg">
